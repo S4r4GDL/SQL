@@ -1,2 +1,2 @@
 # SQL
-Atividades acadêmicas e projetos pessoai envolvendo SQL Postgres
+Atividades acadêmicas e projetos pessoaisenvolvendo SQL Postgres
